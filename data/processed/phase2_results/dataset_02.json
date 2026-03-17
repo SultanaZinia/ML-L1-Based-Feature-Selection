@@ -1,0 +1,1047 @@
+{
+  "SVM": [
+    {
+      "fold": 1,
+      "accuracy": 0.940563,
+      "macro_f1": 0.452828,
+      "n_selected": 11,
+      "selected_features": [
+        "F1",
+        "F5",
+        "F10",
+        "F11",
+        "F12",
+        "F13",
+        "F14",
+        "F16",
+        "F17",
+        "F18",
+        "F20"
+      ],
+      "best_l1_C": 0.01
+    },
+    {
+      "fold": 2,
+      "accuracy": 0.91658,
+      "macro_f1": 0.421131,
+      "n_selected": 12,
+      "selected_features": [
+        "F1",
+        "F5",
+        "F10",
+        "F11",
+        "F12",
+        "F13",
+        "F14",
+        "F15",
+        "F16",
+        "F17",
+        "F18",
+        "F20"
+      ],
+      "best_l1_C": 0.01
+    },
+    {
+      "fold": 3,
+      "accuracy": 0.925965,
+      "macro_f1": 0.431186,
+      "n_selected": 13,
+      "selected_features": [
+        "F1",
+        "F2",
+        "F5",
+        "F10",
+        "F11",
+        "F12",
+        "F13",
+        "F14",
+        "F15",
+        "F16",
+        "F17",
+        "F18",
+        "F20"
+      ],
+      "best_l1_C": 0.01
+    },
+    {
+      "fold": 4,
+      "accuracy": 0.929019,
+      "macro_f1": 0.435486,
+      "n_selected": 11,
+      "selected_features": [
+        "F1",
+        "F5",
+        "F10",
+        "F11",
+        "F12",
+        "F13",
+        "F14",
+        "F16",
+        "F17",
+        "F18",
+        "F20"
+      ],
+      "best_l1_C": 0.01
+    },
+    {
+      "fold": 5,
+      "accuracy": 0.927975,
+      "macro_f1": 0.430963,
+      "n_selected": 11,
+      "selected_features": [
+        "F1",
+        "F5",
+        "F10",
+        "F11",
+        "F12",
+        "F13",
+        "F14",
+        "F16",
+        "F17",
+        "F18",
+        "F20"
+      ],
+      "best_l1_C": 0.01
+    },
+    {
+      "fold": 6,
+      "accuracy": 0.938413,
+      "macro_f1": 0.448977,
+      "n_selected": 13,
+      "selected_features": [
+        "F1",
+        "F2",
+        "F5",
+        "F10",
+        "F11",
+        "F12",
+        "F13",
+        "F14",
+        "F15",
+        "F16",
+        "F17",
+        "F18",
+        "F20"
+      ],
+      "best_l1_C": 0.1
+    },
+    {
+      "fold": 7,
+      "accuracy": 0.924843,
+      "macro_f1": 0.425831,
+      "n_selected": 12,
+      "selected_features": [
+        "F1",
+        "F5",
+        "F10",
+        "F11",
+        "F12",
+        "F13",
+        "F14",
+        "F15",
+        "F16",
+        "F17",
+        "F18",
+        "F20"
+      ],
+      "best_l1_C": 0.1
+    },
+    {
+      "fold": 8,
+      "accuracy": 0.93737,
+      "macro_f1": 0.445393,
+      "n_selected": 12,
+      "selected_features": [
+        "F1",
+        "F2",
+        "F5",
+        "F10",
+        "F11",
+        "F12",
+        "F13",
+        "F14",
+        "F16",
+        "F17",
+        "F18",
+        "F20"
+      ],
+      "best_l1_C": 0.01
+    },
+    {
+      "fold": 9,
+      "accuracy": 0.93737,
+      "macro_f1": 0.442461,
+      "n_selected": 11,
+      "selected_features": [
+        "F1",
+        "F5",
+        "F10",
+        "F11",
+        "F12",
+        "F13",
+        "F14",
+        "F16",
+        "F17",
+        "F18",
+        "F20"
+      ],
+      "best_l1_C": 0.01
+    },
+    {
+      "fold": 10,
+      "accuracy": 0.93215,
+      "macro_f1": 0.439827,
+      "n_selected": 11,
+      "selected_features": [
+        "F1",
+        "F5",
+        "F10",
+        "F11",
+        "F12",
+        "F13",
+        "F14",
+        "F16",
+        "F17",
+        "F18",
+        "F20"
+      ],
+      "best_l1_C": 0.01
+    }
+  ],
+  "kNN": [
+    {
+      "fold": 1,
+      "accuracy": 0.964546,
+      "macro_f1": 0.64302,
+      "n_selected": 11,
+      "selected_features": [
+        "F1",
+        "F5",
+        "F10",
+        "F11",
+        "F12",
+        "F13",
+        "F14",
+        "F16",
+        "F17",
+        "F18",
+        "F20"
+      ],
+      "best_l1_C": 0.01
+    },
+    {
+      "fold": 2,
+      "accuracy": 0.945777,
+      "macro_f1": 0.582248,
+      "n_selected": 12,
+      "selected_features": [
+        "F1",
+        "F5",
+        "F10",
+        "F11",
+        "F12",
+        "F13",
+        "F14",
+        "F15",
+        "F16",
+        "F17",
+        "F18",
+        "F20"
+      ],
+      "best_l1_C": 0.01
+    },
+    {
+      "fold": 3,
+      "accuracy": 0.957247,
+      "macro_f1": 0.605278,
+      "n_selected": 13,
+      "selected_features": [
+        "F1",
+        "F2",
+        "F5",
+        "F10",
+        "F11",
+        "F12",
+        "F13",
+        "F14",
+        "F15",
+        "F16",
+        "F17",
+        "F18",
+        "F20"
+      ],
+      "best_l1_C": 0.01
+    },
+    {
+      "fold": 4,
+      "accuracy": 0.943633,
+      "macro_f1": 0.549575,
+      "n_selected": 11,
+      "selected_features": [
+        "F1",
+        "F5",
+        "F10",
+        "F11",
+        "F12",
+        "F13",
+        "F14",
+        "F16",
+        "F17",
+        "F18",
+        "F20"
+      ],
+      "best_l1_C": 0.01
+    },
+    {
+      "fold": 5,
+      "accuracy": 0.950939,
+      "macro_f1": 0.577004,
+      "n_selected": 11,
+      "selected_features": [
+        "F1",
+        "F5",
+        "F10",
+        "F11",
+        "F12",
+        "F13",
+        "F14",
+        "F16",
+        "F17",
+        "F18",
+        "F20"
+      ],
+      "best_l1_C": 0.01
+    },
+    {
+      "fold": 6,
+      "accuracy": 0.962422,
+      "macro_f1": 0.598308,
+      "n_selected": 13,
+      "selected_features": [
+        "F1",
+        "F2",
+        "F5",
+        "F10",
+        "F11",
+        "F12",
+        "F13",
+        "F14",
+        "F15",
+        "F16",
+        "F17",
+        "F18",
+        "F20"
+      ],
+      "best_l1_C": 0.1
+    },
+    {
+      "fold": 7,
+      "accuracy": 0.943633,
+      "macro_f1": 0.460692,
+      "n_selected": 12,
+      "selected_features": [
+        "F1",
+        "F5",
+        "F10",
+        "F11",
+        "F12",
+        "F13",
+        "F14",
+        "F15",
+        "F16",
+        "F17",
+        "F18",
+        "F20"
+      ],
+      "best_l1_C": 0.1
+    },
+    {
+      "fold": 8,
+      "accuracy": 0.958246,
+      "macro_f1": 0.501299,
+      "n_selected": 12,
+      "selected_features": [
+        "F1",
+        "F2",
+        "F5",
+        "F10",
+        "F11",
+        "F12",
+        "F13",
+        "F14",
+        "F16",
+        "F17",
+        "F18",
+        "F20"
+      ],
+      "best_l1_C": 0.01
+    },
+    {
+      "fold": 9,
+      "accuracy": 0.944676,
+      "macro_f1": 0.458559,
+      "n_selected": 11,
+      "selected_features": [
+        "F1",
+        "F5",
+        "F10",
+        "F11",
+        "F12",
+        "F13",
+        "F14",
+        "F16",
+        "F17",
+        "F18",
+        "F20"
+      ],
+      "best_l1_C": 0.01
+    },
+    {
+      "fold": 10,
+      "accuracy": 0.948852,
+      "macro_f1": 0.586753,
+      "n_selected": 11,
+      "selected_features": [
+        "F1",
+        "F5",
+        "F10",
+        "F11",
+        "F12",
+        "F13",
+        "F14",
+        "F16",
+        "F17",
+        "F18",
+        "F20"
+      ],
+      "best_l1_C": 0.01
+    }
+  ],
+  "DecisionTree": [
+    {
+      "fold": 1,
+      "accuracy": 0.966632,
+      "macro_f1": 0.707052,
+      "n_selected": 11,
+      "selected_features": [
+        "F1",
+        "F5",
+        "F10",
+        "F11",
+        "F12",
+        "F13",
+        "F14",
+        "F16",
+        "F17",
+        "F18",
+        "F20"
+      ],
+      "best_l1_C": 0.01
+    },
+    {
+      "fold": 2,
+      "accuracy": 0.952033,
+      "macro_f1": 0.568672,
+      "n_selected": 12,
+      "selected_features": [
+        "F1",
+        "F5",
+        "F10",
+        "F11",
+        "F12",
+        "F13",
+        "F14",
+        "F15",
+        "F16",
+        "F17",
+        "F18",
+        "F20"
+      ],
+      "best_l1_C": 0.01
+    },
+    {
+      "fold": 3,
+      "accuracy": 0.95829,
+      "macro_f1": 0.612186,
+      "n_selected": 13,
+      "selected_features": [
+        "F1",
+        "F2",
+        "F5",
+        "F10",
+        "F11",
+        "F12",
+        "F13",
+        "F14",
+        "F15",
+        "F16",
+        "F17",
+        "F18",
+        "F20"
+      ],
+      "best_l1_C": 0.01
+    },
+    {
+      "fold": 4,
+      "accuracy": 0.953027,
+      "macro_f1": 0.580686,
+      "n_selected": 11,
+      "selected_features": [
+        "F1",
+        "F5",
+        "F10",
+        "F11",
+        "F12",
+        "F13",
+        "F14",
+        "F16",
+        "F17",
+        "F18",
+        "F20"
+      ],
+      "best_l1_C": 0.01
+    },
+    {
+      "fold": 5,
+      "accuracy": 0.950939,
+      "macro_f1": 0.551022,
+      "n_selected": 11,
+      "selected_features": [
+        "F1",
+        "F5",
+        "F10",
+        "F11",
+        "F12",
+        "F13",
+        "F14",
+        "F16",
+        "F17",
+        "F18",
+        "F20"
+      ],
+      "best_l1_C": 0.01
+    },
+    {
+      "fold": 6,
+      "accuracy": 0.968685,
+      "macro_f1": 0.650395,
+      "n_selected": 13,
+      "selected_features": [
+        "F1",
+        "F2",
+        "F5",
+        "F10",
+        "F11",
+        "F12",
+        "F13",
+        "F14",
+        "F15",
+        "F16",
+        "F17",
+        "F18",
+        "F20"
+      ],
+      "best_l1_C": 0.1
+    },
+    {
+      "fold": 7,
+      "accuracy": 0.956159,
+      "macro_f1": 0.529336,
+      "n_selected": 12,
+      "selected_features": [
+        "F1",
+        "F5",
+        "F10",
+        "F11",
+        "F12",
+        "F13",
+        "F14",
+        "F15",
+        "F16",
+        "F17",
+        "F18",
+        "F20"
+      ],
+      "best_l1_C": 0.1
+    },
+    {
+      "fold": 8,
+      "accuracy": 0.962422,
+      "macro_f1": 0.609151,
+      "n_selected": 12,
+      "selected_features": [
+        "F1",
+        "F2",
+        "F5",
+        "F10",
+        "F11",
+        "F12",
+        "F13",
+        "F14",
+        "F16",
+        "F17",
+        "F18",
+        "F20"
+      ],
+      "best_l1_C": 0.01
+    },
+    {
+      "fold": 9,
+      "accuracy": 0.95929,
+      "macro_f1": 0.599284,
+      "n_selected": 11,
+      "selected_features": [
+        "F1",
+        "F5",
+        "F10",
+        "F11",
+        "F12",
+        "F13",
+        "F14",
+        "F16",
+        "F17",
+        "F18",
+        "F20"
+      ],
+      "best_l1_C": 0.01
+    },
+    {
+      "fold": 10,
+      "accuracy": 0.957203,
+      "macro_f1": 0.583686,
+      "n_selected": 11,
+      "selected_features": [
+        "F1",
+        "F5",
+        "F10",
+        "F11",
+        "F12",
+        "F13",
+        "F14",
+        "F16",
+        "F17",
+        "F18",
+        "F20"
+      ],
+      "best_l1_C": 0.01
+    }
+  ],
+  "RandomForest": [
+    {
+      "fold": 1,
+      "accuracy": 0.967675,
+      "macro_f1": 0.6902,
+      "n_selected": 11,
+      "selected_features": [
+        "F1",
+        "F5",
+        "F10",
+        "F11",
+        "F12",
+        "F13",
+        "F14",
+        "F16",
+        "F17",
+        "F18",
+        "F20"
+      ],
+      "best_l1_C": 0.01
+    },
+    {
+      "fold": 2,
+      "accuracy": 0.953076,
+      "macro_f1": 0.584509,
+      "n_selected": 12,
+      "selected_features": [
+        "F1",
+        "F5",
+        "F10",
+        "F11",
+        "F12",
+        "F13",
+        "F14",
+        "F15",
+        "F16",
+        "F17",
+        "F18",
+        "F20"
+      ],
+      "best_l1_C": 0.01
+    },
+    {
+      "fold": 3,
+      "accuracy": 0.959333,
+      "macro_f1": 0.532609,
+      "n_selected": 13,
+      "selected_features": [
+        "F1",
+        "F2",
+        "F5",
+        "F10",
+        "F11",
+        "F12",
+        "F13",
+        "F14",
+        "F15",
+        "F16",
+        "F17",
+        "F18",
+        "F20"
+      ],
+      "best_l1_C": 0.01
+    },
+    {
+      "fold": 4,
+      "accuracy": 0.956159,
+      "macro_f1": 0.615204,
+      "n_selected": 11,
+      "selected_features": [
+        "F1",
+        "F5",
+        "F10",
+        "F11",
+        "F12",
+        "F13",
+        "F14",
+        "F16",
+        "F17",
+        "F18",
+        "F20"
+      ],
+      "best_l1_C": 0.01
+    },
+    {
+      "fold": 5,
+      "accuracy": 0.946764,
+      "macro_f1": 0.532569,
+      "n_selected": 11,
+      "selected_features": [
+        "F1",
+        "F5",
+        "F10",
+        "F11",
+        "F12",
+        "F13",
+        "F14",
+        "F16",
+        "F17",
+        "F18",
+        "F20"
+      ],
+      "best_l1_C": 0.01
+    },
+    {
+      "fold": 6,
+      "accuracy": 0.970772,
+      "macro_f1": 0.564388,
+      "n_selected": 13,
+      "selected_features": [
+        "F1",
+        "F2",
+        "F5",
+        "F10",
+        "F11",
+        "F12",
+        "F13",
+        "F14",
+        "F15",
+        "F16",
+        "F17",
+        "F18",
+        "F20"
+      ],
+      "best_l1_C": 0.1
+    },
+    {
+      "fold": 7,
+      "accuracy": 0.961378,
+      "macro_f1": 0.574355,
+      "n_selected": 12,
+      "selected_features": [
+        "F1",
+        "F5",
+        "F10",
+        "F11",
+        "F12",
+        "F13",
+        "F14",
+        "F15",
+        "F16",
+        "F17",
+        "F18",
+        "F20"
+      ],
+      "best_l1_C": 0.1
+    },
+    {
+      "fold": 8,
+      "accuracy": 0.958246,
+      "macro_f1": 0.515925,
+      "n_selected": 12,
+      "selected_features": [
+        "F1",
+        "F2",
+        "F5",
+        "F10",
+        "F11",
+        "F12",
+        "F13",
+        "F14",
+        "F16",
+        "F17",
+        "F18",
+        "F20"
+      ],
+      "best_l1_C": 0.01
+    },
+    {
+      "fold": 9,
+      "accuracy": 0.962422,
+      "macro_f1": 0.637948,
+      "n_selected": 11,
+      "selected_features": [
+        "F1",
+        "F5",
+        "F10",
+        "F11",
+        "F12",
+        "F13",
+        "F14",
+        "F16",
+        "F17",
+        "F18",
+        "F20"
+      ],
+      "best_l1_C": 0.01
+    },
+    {
+      "fold": 10,
+      "accuracy": 0.965553,
+      "macro_f1": 0.658362,
+      "n_selected": 11,
+      "selected_features": [
+        "F1",
+        "F5",
+        "F10",
+        "F11",
+        "F12",
+        "F13",
+        "F14",
+        "F16",
+        "F17",
+        "F18",
+        "F20"
+      ],
+      "best_l1_C": 0.01
+    }
+  ],
+  "MLP": [
+    {
+      "fold": 1,
+      "accuracy": 0.957247,
+      "macro_f1": 0.474072,
+      "n_selected": 11,
+      "selected_features": [
+        "F1",
+        "F5",
+        "F10",
+        "F11",
+        "F12",
+        "F13",
+        "F14",
+        "F16",
+        "F17",
+        "F18",
+        "F20"
+      ],
+      "best_l1_C": 0.01
+    },
+    {
+      "fold": 2,
+      "accuracy": 0.943691,
+      "macro_f1": 0.48372,
+      "n_selected": 12,
+      "selected_features": [
+        "F1",
+        "F5",
+        "F10",
+        "F11",
+        "F12",
+        "F13",
+        "F14",
+        "F15",
+        "F16",
+        "F17",
+        "F18",
+        "F20"
+      ],
+      "best_l1_C": 0.01
+    },
+    {
+      "fold": 3,
+      "accuracy": 0.953076,
+      "macro_f1": 0.528575,
+      "n_selected": 13,
+      "selected_features": [
+        "F1",
+        "F2",
+        "F5",
+        "F10",
+        "F11",
+        "F12",
+        "F13",
+        "F14",
+        "F15",
+        "F16",
+        "F17",
+        "F18",
+        "F20"
+      ],
+      "best_l1_C": 0.01
+    },
+    {
+      "fold": 4,
+      "accuracy": 0.943633,
+      "macro_f1": 0.477926,
+      "n_selected": 11,
+      "selected_features": [
+        "F1",
+        "F5",
+        "F10",
+        "F11",
+        "F12",
+        "F13",
+        "F14",
+        "F16",
+        "F17",
+        "F18",
+        "F20"
+      ],
+      "best_l1_C": 0.01
+    },
+    {
+      "fold": 5,
+      "accuracy": 0.949896,
+      "macro_f1": 0.507927,
+      "n_selected": 11,
+      "selected_features": [
+        "F1",
+        "F5",
+        "F10",
+        "F11",
+        "F12",
+        "F13",
+        "F14",
+        "F16",
+        "F17",
+        "F18",
+        "F20"
+      ],
+      "best_l1_C": 0.01
+    },
+    {
+      "fold": 6,
+      "accuracy": 0.960334,
+      "macro_f1": 0.626098,
+      "n_selected": 13,
+      "selected_features": [
+        "F1",
+        "F2",
+        "F5",
+        "F10",
+        "F11",
+        "F12",
+        "F13",
+        "F14",
+        "F15",
+        "F16",
+        "F17",
+        "F18",
+        "F20"
+      ],
+      "best_l1_C": 0.1
+    },
+    {
+      "fold": 7,
+      "accuracy": 0.943633,
+      "macro_f1": 0.457301,
+      "n_selected": 12,
+      "selected_features": [
+        "F1",
+        "F5",
+        "F10",
+        "F11",
+        "F12",
+        "F13",
+        "F14",
+        "F15",
+        "F16",
+        "F17",
+        "F18",
+        "F20"
+      ],
+      "best_l1_C": 0.1
+    },
+    {
+      "fold": 8,
+      "accuracy": 0.946764,
+      "macro_f1": 0.495662,
+      "n_selected": 12,
+      "selected_features": [
+        "F1",
+        "F2",
+        "F5",
+        "F10",
+        "F11",
+        "F12",
+        "F13",
+        "F14",
+        "F16",
+        "F17",
+        "F18",
+        "F20"
+      ],
+      "best_l1_C": 0.01
+    },
+    {
+      "fold": 9,
+      "accuracy": 0.962422,
+      "macro_f1": 0.593671,
+      "n_selected": 11,
+      "selected_features": [
+        "F1",
+        "F5",
+        "F10",
+        "F11",
+        "F12",
+        "F13",
+        "F14",
+        "F16",
+        "F17",
+        "F18",
+        "F20"
+      ],
+      "best_l1_C": 0.01
+    },
+    {
+      "fold": 10,
+      "accuracy": 0.953027,
+      "macro_f1": 0.522215,
+      "n_selected": 11,
+      "selected_features": [
+        "F1",
+        "F5",
+        "F10",
+        "F11",
+        "F12",
+        "F13",
+        "F14",
+        "F16",
+        "F17",
+        "F18",
+        "F20"
+      ],
+      "best_l1_C": 0.01
+    }
+  ]
+}
